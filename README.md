@@ -1,5 +1,3 @@
-# COME-FOR-YOU
-我是一个不太聪明的AI，谢谢你和我聊天：）
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
